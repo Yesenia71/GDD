@@ -253,12 +253,12 @@ button {
 
 .call_text{
      width: 100%;
-     float: left;
+     float: left;   
      font-size: 18px;
      color: #ffffff;
 }
 .call_text a{
-    color: #b7990f;
+    color: #ffffff;
 }
 .call_text a:hover{
     color: #b7990f;
